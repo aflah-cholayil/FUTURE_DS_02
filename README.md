@@ -4,6 +4,7 @@ Greetings!! This is my Internship at Future Interns.This repository contains my 
 techniques.
 
 TASK OUTLINE : Use historical sales data to predict future sales trends.
+Deliverable: Forecast models with visualized trends and business recommendations.
 
 Contact Info My LinkedIn Profile: Aflah Cholayil
 
